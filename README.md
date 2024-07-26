@@ -1,5 +1,5 @@
 # Aplicação Web
-Aula Git GitHub Draw.Io realizada em 25.07.2024
+Aula Escola da Nuvem realizada em 25.07.2024
 
 ## **Cenário**
 A Empresa X, uma grande varejista online, está enfrentando dificuldades com a escalabilidade e a disponibilidade de seu sistema atual de TI. Com o aumento das transações online e a expansão de seus serviços digitais, a empresa decidiu migrar para uma solução de nuvem para melhorar a performance, a segurança e a flexibilidade de sua infraestrutura.
