@@ -1,4 +1,4 @@
-# saa01grupo07
+# Aplicação Web
 Aula Git GitHub Draw.Io realizada em 25.07.2024
 
 ## **Cenário**
