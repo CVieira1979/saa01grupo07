@@ -7,5 +7,5 @@ A Empresa X, uma grande varejista online, está enfrentando dificuldades com a e
 ## **Objetivo**
 Migrar a infraestrutura de TI da Empresa Liner para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. O grupo deve montar um diagrama de como ficaria a estrutura da AWS, com serviços que o grupo entender ser o ideal.
 
-## Arquitetura
+## Arquitetura Proposta
 ![Imagem](diagrama.png)
